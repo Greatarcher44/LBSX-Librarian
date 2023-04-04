@@ -7,9 +7,7 @@ Gitlab'da en güncel kitap dosyalarını bulabilirsiniz.
 • Merset PDF ve kitap arşivine katkı sağlayabilirsiniz.
 
 Lisans Nasıl Alınır?
-İnternet bağlantınız varken, lisans kısmına
-generate_eposta@adresi.niz yazın. Lisansınız onaylanınca
-trnlab@proton.me adresinden lisans bilgileriniz gelecektir.
+https://license.fernus.repl.co
 
 
 
